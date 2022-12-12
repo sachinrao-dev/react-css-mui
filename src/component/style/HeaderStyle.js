@@ -2,12 +2,10 @@ import { makeStyles } from "@mui/styles";
 
 const useStyle = makeStyles({
   headerContainer: {
-    width: "100%",
     display: "flex",
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
-    // padding: "",
   },
   logo: {
     background: "white",

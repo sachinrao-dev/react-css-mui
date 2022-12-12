@@ -2,7 +2,6 @@ import { makeStyles } from "@mui/styles";
 
 const useStyle = makeStyles({
   greenPanelContainer: {
-    width: "100%",
     height: "700px",
     background: "#3a3740",
     position: "relative",

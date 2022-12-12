@@ -3,7 +3,6 @@ import { makeStyles } from "@mui/styles";
 const useStyle = makeStyles({
   aboutUsContainer: {
     display: "flex",
-    width: "100%",
     alignItems: "center",
     margin: "2rem 25rem",
   },
@@ -13,10 +12,10 @@ const useStyle = makeStyles({
   para1: {
     marginRight: "10px",
     marginLeft: "10px",
-    width: "15%",
+    width: "40%",
   },
   para2: {
-    width: "15%",
+    width: "50%",
     marginLeft: "30px",
   },
   imageContainer: {
