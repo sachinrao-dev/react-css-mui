@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./component/UI/Header";
 import GreenPanel from "./component/UI/GreenPanel";
 import AboutUs from "./component/UI/AboutUs";
-// import Button from "./component/UI/Button";
+import GroupTherapy from "./component/UI/GroupTherapy";
 
 function App() {
   return (
@@ -10,6 +10,7 @@ function App() {
       <Header />
       <GreenPanel />
       <AboutUs />
+      <GroupTherapy />
     </div>
   );
 }
