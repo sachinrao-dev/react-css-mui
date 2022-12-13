@@ -4,6 +4,7 @@ import GreenPanel from "./component/UI/GreenPanel";
 import AboutUs from "./component/UI/AboutUs";
 import GroupTherapy from "./component/UI/GroupTherapy";
 import TrainingGroup from "./component/UI/TrainingGroup";
+import GreatGroup from "./component/UI/GreatGroup";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <AboutUs />
       <GroupTherapy />
       <TrainingGroup />
+      <GreatGroup />
     </div>
   );
 }
