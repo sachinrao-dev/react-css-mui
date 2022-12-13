@@ -6,6 +6,7 @@ import GroupTherapy from "./component/UI/GroupTherapy";
 import TrainingGroup from "./component/UI/TrainingGroup";
 import GreatGroup from "./component/UI/GreatGroup";
 import SupportGroup from "./component/UI/SupportGroup";
+import OnlineCounseling from "./component/UI/OnlineCounseling";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <TrainingGroup />
       <GreatGroup />
       <SupportGroup />
+      <OnlineCounseling />
     </div>
   );
 }
