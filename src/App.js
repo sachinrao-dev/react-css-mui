@@ -8,6 +8,7 @@ import GreatGroup from "./component/UI/GreatGroup";
 import SupportGroup from "./component/UI/SupportGroup";
 import OnlineCounseling from "./component/UI/OnlineCounseling";
 import LastGroupTherapy from "./component/UI/LastGroupTherapy";
+import Footer from "./component/UI/Footer";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <SupportGroup />
       <OnlineCounseling />
       <LastGroupTherapy />
+      <Footer />
     </div>
   );
 }
