@@ -5,6 +5,7 @@ const useStyle = makeStyles({
     alignItems: "center",
     textAlign: "center",
     display: "flex",
+    height: "900px",
     justifyContent: "center",
     position: "relative",
     "& img": {
@@ -29,7 +30,7 @@ const useStyle = makeStyles({
   },
   findContainer: {
     left: "23%",
-    top: "400px",
+    // top: "400px",
     height: "290px",
     width: "250px",
     background: "#3a3740",
