@@ -5,6 +5,7 @@ import AboutUs from "./component/UI/AboutUs";
 import GroupTherapy from "./component/UI/GroupTherapy";
 import TrainingGroup from "./component/UI/TrainingGroup";
 import GreatGroup from "./component/UI/GreatGroup";
+import SupportGroup from "./component/UI/SupportGroup";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <GroupTherapy />
       <TrainingGroup />
       <GreatGroup />
+      <SupportGroup />
     </div>
   );
 }
